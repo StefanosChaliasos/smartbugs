@@ -1,6 +1,6 @@
 import sb.parse_utils
 
-VERSION = "2022/11/14"
+VERSION = "2023/02/12"
 
 FINDINGS = {
     "array-declaration-spaces",
@@ -35,7 +35,9 @@ FINDINGS = {
     "modifier-name-mixedcase",
     "multiple-sends",
     "no-complex-fallback",
+    "no-console",
     "no-empty-blocks",
+    "no-global-import",
     "no-inline-assembly",
     "no-mix-tabs-and-spaces",
     "no-simple-event-func-name",
